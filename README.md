@@ -43,7 +43,6 @@ This project is built using a modern full-stack architecture featuring **TanStac
 
 ```bash
 portfolio/
-├── .lovable/                 # Lovable configuration
 ├── supabase/                 # Supabase configuration (pre-setup infrastructure)
 ├── src/
 │   ├── components/
